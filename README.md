@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging Business Intellige
 
 ## About Me
 
-- 💼 Business Intelligence developer / Sql developer
+- 💼 Business Intelligence developer / Data Analyst
 - 📍 Located in Hyderabad
 
 ## Tech Stack
