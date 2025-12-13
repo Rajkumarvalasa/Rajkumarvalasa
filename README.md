@@ -1,6 +1,6 @@
 # Hi there, I'm Rajkumar! 👋
 
-Welcome to my GitHub profile! I'm passionate about leveraging Business Intelligence to empower businesses to make informed decisions and drive growth. With a strong foundation in tools like Excel, PowerBI, and SQL. I aim to combine technical expertise with business acumen to deliver impactful solutions.
+Welcome to my GitHub profile! I'm passionate about leveraging Business Intelligence to empower businesses to make informed decisions and drive growth. With a strong foundation in tools like SQL Server, PowerBI, and Excel. I aim to combine technical expertise with business acumen to deliver impactful solutions.
 
 ## About Me
 
