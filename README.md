@@ -9,9 +9,9 @@ Welcome to my GitHub profile! I'm passionate about leveraging Business Intellige
 
 ## Tech Stack
 
-- Excel
-- PowerBI
 - SQL Server
+- PowerBI
+- Excel
 - Git, GitHub
 
 ## Projects
